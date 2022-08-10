@@ -1,0 +1,34 @@
+*{ 
+    margin:0;
+    box-sizing:border-box;
+    margin-bottom: 10px;
+   }
+   
+   body{
+   font-family: Arial, Helvetica, sans-serif;
+   color:#ffffff;
+   background-image: url(https://img.freepik.com/fotos-gratis/homem-usando-tecnologia-inteligente-de-maquete-psd-de-tablet-digital_53876-110815.jpg?w=1380&t=st=1660095271~exp=1660095871~hmac=42855eea559cf296c265bea4e617e5fcdd4db8167ea0ae11f7faeb8beab37ddc);
+   background-repeat:no-repeat;
+   background-size: cover;
+   opacity:no-opacity;
+
+}
+  fieldset{
+  
+  }
+  form {
+    background-color: rgba(16, 66, 202, 0.39);
+    
+    max-width: 400px;
+   margin-inline: auto;
+   margin-top:20px;
+
+
+  }
+   legend{
+    font-size: 20px;
+    color:crimson;
+   }
+ 
+
+
